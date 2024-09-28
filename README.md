@@ -1,5 +1,5 @@
-## OVERVIEW
+## My Data Science & Analysis Portfolio
 
-This repository highlights my top 3 projects in data analysis and data science, showcasing my expertise in extracting insights from data and building predictive models. Each project demonstrates my proficiency in data manipulation, visualization, and machine learning, applied to solve complex real-world problems.
+This repository showcases some of my best projects in data analysis and data science, highlighting my ability to extract insights from data and build predictive models. Each project demonstrates my expertise in data manipulation, visualization, and machine learning, applied to solve real-world problems.
 
-Explore these projects for a detailed look at my work, including the methodologies, code, and analysis that drive actionable insights.
+Explore these projects to discover the methodologies, code, and analysis that drive actionable insights.
